@@ -1,4 +1,6 @@
 # HTML5 Website Templates (For Begginers and Professionals)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FJsjst1%2Fwebsite.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FJsjst1%2Fwebsite?ref=badge_shield)
+
  
 > *Click &#9733; if you like the project. Your contributions are heartily ♡ welcome.*
 
@@ -179,3 +181,7 @@
 |  168   | webtrends-free-bootstrap-responsive-web-template		 	      |[live example](https://learning-zone.github.io/website-templates/webtrends-free-bootstrap-responsive-web-template/)|		 	      
 |  169   | zenlike														      |[live example](https://learning-zone.github.io/website-templates/zenlike/)|
 |  170   | reveal														      |[live example](https://learning-zone.github.io/website-templates/reveal/)|														      
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FJsjst1%2Fwebsite.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FJsjst1%2Fwebsite?ref=badge_large)
